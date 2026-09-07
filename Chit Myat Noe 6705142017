@@ -1,5 +1,0 @@
-mkdir quiz-01
-cd quiz-01
-touch solution.py test_solution.py README.md
-git add .
-git commit -m "quiz-01: set up folder and empty files"
